@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("New change to observe");
+        System.out.println("changes for third time");
     }
 }
